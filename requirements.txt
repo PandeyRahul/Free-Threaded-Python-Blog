@@ -1,0 +1,3 @@
+# no extra packages needed to run the benchmark
+# matplotlib is only needed for --plot / make_images.py (use your normal Python for that)
+matplotlib
